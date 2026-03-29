@@ -91,7 +91,7 @@ python src/newsapi_words_counting.py
    - sort_by: `relevancy`
    - threshold: `10`
    - figure_size: `6` this will create a figure of size (12, 6)
-![Example Bar Chart](data/example_bar_chart.png)
+![Example Bar Chart](data/figure_2026-03-01_2026-03-27_threshold10_size6.png)
 
 ## License
 Free for personal use and educational purposes. Not for commercial use without permission. 
